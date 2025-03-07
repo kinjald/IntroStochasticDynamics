@@ -1,0 +1,4 @@
+This Jupyter notebook on introductory Brownian Dynamics simulations is written in Python 3.  It takes the reader through simple random walk models, the active Brownian particle (ABP) model and shows how to simulate the dynamics of multiple interacting ABPs. The annotated notebook is self-explanatory.
+
+The notebook can be launched from some remote computing facility that supports Jupyter notebooks, e.g. Jupyterhub.
+or a computing cluster at your university. Alternatively, you may install Anaconda on your personal computer, which provides a convenient one-shot installation of commonly used packages (numpy and matplotlib) in scientific computing.
